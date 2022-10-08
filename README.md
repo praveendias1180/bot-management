@@ -17,3 +17,9 @@ Full paper inside 'papers' folder.
 # Bot Management
 
 ![](bot-management2.png)
+
+# Are Your Holiday Shoppers Human?
+
+![](holiday-shoppers.png)
+
+https://www.youtube.com/watch?v=sXsiY6yny94
