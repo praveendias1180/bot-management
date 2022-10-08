@@ -9,3 +9,7 @@ Full paper inside 'papers' folder.
 # Impacts
 
 ![](impacts.png)
+
+# Financial Impact
+
+![](financial-impact.png)
