@@ -30,3 +30,7 @@ https://www.youtube.com/watch?v=sXsiY6yny94
 Humans have become a minority of internet users, with automated bot traffic accounting for more than half of all internet traffic. The bots are becoming more sophisticated as they seek to evade detection.
 
 https://www.youtube.com/watch?v=OY3fY-wbJMQ
+
+## Threat Landscape
+
+![](threat-landscape.png)
