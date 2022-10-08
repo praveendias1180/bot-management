@@ -5,3 +5,7 @@
 ![](bot-management.png)
 
 Full paper inside 'papers' folder.
+
+# Impacts
+
+![](impacts.png)
