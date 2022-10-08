@@ -34,3 +34,7 @@ https://www.youtube.com/watch?v=OY3fY-wbJMQ
 ## Threat Landscape
 
 ![](threat-landscape.png)
+
+# Emerging Threats
+
+![](emerging.png)
