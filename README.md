@@ -13,3 +13,7 @@ Full paper inside 'papers' folder.
 # Financial Impact
 
 ![](financial-impact.png)
+
+# Bot Management
+
+![](bot-management2.png)
