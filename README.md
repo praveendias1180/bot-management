@@ -48,3 +48,9 @@ https://www.youtube.com/watch?v=OY3fY-wbJMQ
 # Documentary | Hacking Google
 
 https://g.co/safety/HACKINGGOOGLE
+
+# The Only Way
+
+The only way to stop a hacker is to think like one - Google
+
+The only way to stop a BOT is to think like one :-) 
