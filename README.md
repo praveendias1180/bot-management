@@ -38,3 +38,9 @@ https://www.youtube.com/watch?v=OY3fY-wbJMQ
 # Emerging Threats
 
 ![](emerging.png)
+
+# 2009-12-14 1600 Hrs
+
+![](2009-12-04.png)
+
+![](click-this.png)
